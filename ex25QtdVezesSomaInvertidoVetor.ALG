@@ -1,11 +1,12 @@
 Algoritmo "semnome"
-// 
-//  
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Criar um vetor que deve ser inserido valor até que o usuário
 //solicite a inserção, deve informar a quantidade de vezes que digitou, a soma
 //dos valores e o vetor invertido
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
 // Seção de Declarações das variáveis

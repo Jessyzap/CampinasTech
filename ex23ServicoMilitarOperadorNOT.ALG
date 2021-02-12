@@ -1,12 +1,12 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Huelton Santos
 
 // Descrição   : Escrever um algoritmo que leia os dados de N pessoas
 //(nome, sexo, idade e saúde) e informe se está apta ou não para cumprir o
 //serviço militar obrigatório. Informe os totais.
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 19/01/2021
 Var
    // Seção de Declarações das variáveis

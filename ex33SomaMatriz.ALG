@@ -1,6 +1,7 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Criar um algoritmo que leia uma matrizes 3x3. Em
 //seguida, exiba a soma dos elementos de cada uma
 //das linhas. Ex:
@@ -8,7 +9,7 @@ Algoritmo "semnome"
 //|4,5,6| | 15
 //|3,4,2 | 9
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
    // Seção de Declarações das variáveis

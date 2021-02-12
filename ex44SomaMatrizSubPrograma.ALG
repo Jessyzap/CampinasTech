@@ -1,10 +1,12 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Huelton Santos
+
 // Descrição   : CRIAR UM PROCEDIMENTO QUE REALIZA O PREENCHIMENTO DE UMA MATRIZ,
 //PASSANDO OS VALORES DE LINHA E COLUNA, VC DEVE MOSTRAR NO PROGRAMA PRINCIPAL
 //O TOTAL DA SOMA DAS LINHAS E COLUNAS DA MATRIZ, CRIE UM PROGRAMA PRINCIPAL PARA TESTAR
-// Autor(a)    : Nome do(a) aluno(a)
+
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 21/01/2021
 
 

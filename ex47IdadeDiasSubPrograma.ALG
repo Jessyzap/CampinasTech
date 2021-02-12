@@ -1,12 +1,13 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIE UM PROCEDIMENTO QUE RECEBA A IDADE DA PESSOA EM ANOS,
 //MESES E DIAS, MOSTRE O VALOR DA IDADE EM DIAS, DEVE CONSIDERAÇÃO QUE O
 //MES TEM 30 DIAS, CRIE UM PROGRAMA PRINCIPAL QUE MOSTRE O NOME DA PESSOA E A
 //IDADE REFERENTE EM DIAS.
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 21/01/2021
 
 

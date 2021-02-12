@@ -1,13 +1,14 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIAR UM VETOR DE INTEIRO QUE O USUARIO INFORMA O TAMANHO E
 //INSERE VALOR NELE, AO FINAL MOSTRAR O VALOR INVERTIDO
 //EX:
 //VETOR DE 4 POSICOES: 5,4,7,2
 //VETOR COM 4 POSIÇÕES INVERTIDO: 2,7,4,5
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
    // Seção de Declarações das variáveis

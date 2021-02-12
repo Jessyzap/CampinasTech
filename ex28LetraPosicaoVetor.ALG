@@ -1,12 +1,13 @@
 Algoritmo "semnome"
-// 
-//  
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Crie um vetor que vc digite para cada posição
 //Aula kotlin
 //A <- índice 0
 //u <- indice 1
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
 // Seção de Declarações das variáveis 

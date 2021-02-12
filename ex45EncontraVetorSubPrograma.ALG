@@ -1,13 +1,14 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIE UM PROCEDIMENTO QUE RECEBA POR PARAMETRO UM
 //NUMERO INTEIRO E VERIFIQUE QUANTAS VEZES ESSE VALOR SE ENCONTRA
 //EM UM VETOR(DECLARADO GLOBALMENTE ), RETORNE A QUANTIDADE DE VEZES
 //QUE O VALOR SE ENCONTRAR NO VETOR, CRIE UM PROGRAMA PRINCIPAL PARA
 //TESTAR O PROCEDIMENTO
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 
 procedimento numeroInteiro()

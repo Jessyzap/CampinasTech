@@ -1,6 +1,7 @@
 Algoritmo "semnome"
-// 
-//  
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIAR UM VETOR [0..n] DE INTEIRO QUE O USUARIO INFORMA O TAMANHO E
 //INSERE VALOR NELE, AO FINAL MOSTRAR O VALOR EM DOBRO DA POSIÇÃO
 //EX:
@@ -8,7 +9,8 @@ Algoritmo "semnome"
 //VETOR DE 4 POSICOES: 8,3,9,5
 //MENOR NUMERO É: 3, NA POSIÇÃO 1 DO VETOR
 //SOMA TOTAL DO VETOR: 25
-// Autor(a)    : Nome do(a) aluno(a)
+
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
 // Seção de Declarações das variáveis 

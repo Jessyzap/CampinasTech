@@ -1,8 +1,8 @@
 Algoritmo "semnome"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Criar um vetor para encontrar o maior número e informar a posição
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+// Descrição   : Criar um vetor para encontrar o maior número e informar a posição
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
 // Seção de Declarações das variáveis

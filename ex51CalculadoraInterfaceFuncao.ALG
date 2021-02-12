@@ -1,12 +1,13 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Criar um programa para calculadora para números reais
 //que tenha as operações de soma, subtração, multiplicação e divisão.
 //O programa deverá ter uma interface com o utilizador baseada num menu de opções:
 //(1) Inserir os operandos (2) Soma (3) Subtração (4) Multiplicação (5) Divisão (6) Sair
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 22/01/2021
 
 

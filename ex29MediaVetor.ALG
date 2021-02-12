@@ -1,6 +1,6 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Huelton Santos
 
 // Descrição   : CADASTRAR ALUNO ENQUANTO “S” ou “s”
 //SOLICITAR O NOME DO ALUNO E CRIAR UM VETOR DE REAL QUE O USUARIO
@@ -8,7 +8,7 @@ Algoritmo "semnome"
 //TOTAL DO VETOR POR 4 PARA ENCONTRAR A MEDIA E INFORMAR O NOME E
 //MEDIA DO ALUNO
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 19/01/2021
 Var
    // Seção de Declarações das variáveis

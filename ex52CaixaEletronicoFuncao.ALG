@@ -1,6 +1,7 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Criar um programa de terminal de caixa eletronico, O programa
 //deverá ter uma interface como base o menu de opções: (1) Inserir o valor
 //na conta (2) Mostrar Saldo (3) Transferência (4) Sair
@@ -9,7 +10,7 @@ Algoritmo "semnome"
 //Transferencia – deve mostrar a agencia destino, conta destino e o valor
 //Sair – sair do sistema
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 22/01/2021
 
 

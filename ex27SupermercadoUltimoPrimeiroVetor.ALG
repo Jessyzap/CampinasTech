@@ -1,13 +1,14 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Você tem uma lista de produtos para comprar no supermercado,
 //mas não tem o dinheiro suficiente, usando vetor faca um calculo para ver o
 //tanto que vc vai gastar e outro calculo retirando o primeiro valor da lista
 // e o último ou seja tamanho total do vetor e verificar o último e o primeiro
 // sem o calculo total.
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
    // Seção de Declarações das variáveis

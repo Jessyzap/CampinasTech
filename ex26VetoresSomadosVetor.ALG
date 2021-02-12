@@ -1,11 +1,12 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Criar 2 vetores, informar o vetor A e informar vetor B,
 // os valores devem ser somados e colocados no vetor C
 //Ex vetA[3,4,2] + vetB[1,4,3] = vetC[4,8,5]
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
    // Seção de Declarações das variáveis

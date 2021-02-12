@@ -1,6 +1,6 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Huelton Santos
 
 // Descrição   : A concessionária de veículos CARANGO VELHO está vendendo
 // os seus veículos com desconto. Faça um algoritmo que calcule e exiba o valor
@@ -10,8 +10,7 @@ Algoritmo "semnome"
 //desconto até que a resposta seja: (N) Não . Informar total de carros com ano
 //até 2010 e total geral.
 
-// Autor(a)    : Nome do(a) aluno(a)
-
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 19/01/2021
 Var
    // Seção de Declarações das variáveis

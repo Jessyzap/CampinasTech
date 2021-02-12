@@ -1,8 +1,7 @@
 Algoritmo "semnome"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 16/01/2021
 Var
 // Seção de Declarações das variáveis 

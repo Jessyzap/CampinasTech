@@ -1,13 +1,13 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
+// Professor   : Huelton Santos
 
 // Descrição   : Escrever um algoritmo que leia o nome e as
 //três notas obtidas por um aluno durante o semestre. Calcular a sua média
 //(aritmética), informar o nome e sua menção aprovado (media >= 7), Reprovado
 //(media <= 5) e Recuperação (media entre 5.1 a 6.9).
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 19/01/2021
 Var
    // Seção de Declarações das variáveis

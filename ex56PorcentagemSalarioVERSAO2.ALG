@@ -1,6 +1,7 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Aqui você descreve o que o programa faz! (função)
 // Usar procedimento e função,escrever um algoritmo para uma
 // empresa que decide dar um reajuste a seus 10 funcionários de acordo com
@@ -13,6 +14,8 @@ Algoritmo "semnome"
 // Calcule o seu novo salário reajustado. Escrever o nome do funcionário,
 // o reajuste e seu novo salário. Calcule quanto à empresa vai aumentar sua
 // folha de pagamento.
+
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 26/01/2021
 
 

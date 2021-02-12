@@ -1,12 +1,14 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : Usar Função,dados três valores A, B e C, em que A e B
 //são números reais e C é um caractere, pede-se para imprimir o
 //resultado da operação de A por B se C for um símbolo de operador aritmético;
 //caso contrário deve ser impressa uma mensagem de operador não definido.
 //Tratar erro de divisão por zero.
-// Autor(a)    : Nome do(a) aluno(a)
+
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 23/01/2021
 
 

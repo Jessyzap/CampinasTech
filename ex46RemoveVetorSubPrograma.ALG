@@ -1,11 +1,12 @@
 Algoritmo "semnome"
-//
-//
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIE UM PROCEDIMENTO QUE RECEBA POR PARAMETRO UM NUMERO INTEIRO
 //E REMOVA(REMOVER É FICAR COM O “0”) TODAS AS OCORRÊNCIAS DESSE VALOR DENTRO
 //DE UM VETOR DECLARADO GLOBALMENTE. CRIE UM PROGRAMA PRINCIPAL PARA TESTAR
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 
 procedimento preencherVetor()

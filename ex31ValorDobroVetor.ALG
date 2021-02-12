@@ -1,13 +1,14 @@
 Algoritmo "semnome"
-// 
-//  
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Huelton Santos
+
 // Descrição   : CRIAR UM VETOR DE INTEIRO QUE O USUARIO INFORMA O TAMANHO E
 //INSERE VALOR NELE, AO FINAL MOSTRAR O VALOR EM DOBRO DA POSIÇÃO
 //EX:
 //VETOR DE 4 POSICOES: 4,3,6,10
 //VETOR COM 4 POSIÇÕES EM DOBRO: 8,6,12,20
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 20/01/2021
 Var
 // Seção de Declarações das variáveis 

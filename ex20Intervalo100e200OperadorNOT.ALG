@@ -1,11 +1,11 @@
 Algoritmo "semnome"
 // Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Huelton
+// Professor   : Huelton Santos
 
 // Descrição   : Escrever um algoritmo que receba um número
 //e diga se este número está no intervalo entre 100 e 200.
 
-// Autor(a)    : Nome do(a) aluno(a)
+// Autor(a)    : Jéssica Andrade
 // Data atual  : 19/01/2021
 Var
 // Seção de Declarações das variáveis
